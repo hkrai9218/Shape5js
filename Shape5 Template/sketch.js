@@ -10,7 +10,7 @@ function setup() {
 
 function draw() {
   //color the background
-  background('white');
+  background('black');
 
   //start coding here
 

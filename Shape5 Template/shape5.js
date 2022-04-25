@@ -1,9 +1,9 @@
 class Circle {
   constructor() {
-    this.x = 200;
-    this.y = 200;
-    this.size = 10;
-    this.color = 'darkgray';
+    this.x = 100;
+    this.y = 100;
+    this.size = 20;
+    this.color = 'blue';
     this.spin = 0;
   }
 
@@ -22,10 +22,10 @@ class Circle {
 
 class Square {
   constructor() {
-  	this.x = 200;
-  	this.y = 200;
+  	this.x = 100;
+  	this.y = 100;
   	this.size = 20;
-  	this.color = 'darkgray';
+  	this.color = 'blue';
     this.spin = 0;
   }
 
@@ -45,9 +45,9 @@ class Square {
 class Triangle {
   constructor() {
     this.size = 20;
-    this.x = 200;
-    this.y = 200;
-    this.color = 'darkgray';
+    this.x = 100;
+    this.y = 100;
+    this.color = 'blue';
     this.spin = 0;
   }
 
@@ -78,11 +78,11 @@ class Triangle {
 
 class Polygon {
   constructor() {
-    this.x = 200;
-    this.y = 200;
+    this.x = 100;
+    this.y = 100;
     this.size = 20;
     this.sides = 6;
-    this.color = 'darkgray';
+    this.color = 'blue';
     this.spin = 0;
   }
 
@@ -106,11 +106,11 @@ class Polygon {
 
 class Oval {
   constructor() {
-    this.x = 200;
-  	this.y = 200;
+    this.x = 100;
+  	this.y = 100;
   	this.width = 20;
     this.height = 40;
-  	this.color = 'darkgray';
+  	this.color = 'blue';
     this.spin = 0;
   }
 
@@ -128,11 +128,11 @@ class Oval {
 
 class Rectangle {
   constructor() {
-    this.x = 200;
-  	this.y = 200;
+    this.x = 100;
+  	this.y = 100;
   	this.width = 20;
     this.height = 40;
-  	this.color = 'darkgray';
+  	this.color = 'blue';
     this.spin = 0;
   }
 
@@ -151,10 +151,10 @@ class Rectangle {
 
 class Semicircle {
   constructor() {
-    this.x = 200;
-  	this.y = 200;
+    this.x = 100;
+  	this.y = 100;
   	this.size = 20;
-  	this.color = 'darkgray';
+  	this.color = 'blue';
     this.degrees = 90;
     this.spin = 0;
   }
@@ -177,11 +177,11 @@ class Semicircle {
 
 class Rhombus {
   constructor() {
-    this.x = 200;
-  	this.y = 200;
+    this.x = 100;
+  	this.y = 100;
   	this.size = 40;
     this.angle = 50;
-  	this.color = 'darkgray';
+  	this.color = 'blue';
     this.spin = 0;
   }
 
@@ -215,11 +215,11 @@ class Rhombus {
 
 class RightTriangle {
   constructor() {
-    this.x = 200;
-  	this.y = 200;
+    this.x = 100;
+  	this.y = 100;
   	this.width = 40;
     this.height = 60;
-  	this.color = 'darkgray';
+  	this.color = 'blue';
     this.spin = 0;
   }
 
@@ -241,11 +241,11 @@ class RightTriangle {
 
 class IsoscelesTriangle {
   constructor() {
-    this.x = 200;
-  	this.y = 200;
+    this.x = 100;
+  	this.y = 100;
   	this.length = 60;
     this.width = 30;
-  	this.color = 'darkgray';
+  	this.color = 'blue';
     this.spin = 0;
   }
 
@@ -270,11 +270,11 @@ class IsoscelesTriangle {
 
 class Stripe {
   constructor() {
-    this.x = 200;
-    this.y = 200;
+    this.x = 100;
+    this.y = 100;
     this.length = 20;
     this.width = 5;
-    this.color = 'darkgray';
+    this.color = 'blue';
     this.spin = 0;
   }
 
